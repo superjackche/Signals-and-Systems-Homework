@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Outputs
+homework01/outputs/
